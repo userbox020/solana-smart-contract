@@ -27,3 +27,4 @@ for (const folder of getProgramFolders()) {
     await $`cargo ${toolchain} fmt --manifest-path ${manifestPath} ${cargoArgs} -- --check ${fmtArgs}`;
   }
 }
+
