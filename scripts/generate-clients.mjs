@@ -36,3 +36,4 @@ codama.accept(
     crateFolder: rustClient,
   })
 );
+
