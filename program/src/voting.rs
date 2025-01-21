@@ -121,3 +121,4 @@ pub struct Poll {
     pub poll_end: u64,
     pub candidate_amount: u64,
 }
+
