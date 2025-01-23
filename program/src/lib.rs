@@ -47,3 +47,4 @@ pub enum SolanaSmartContractError {
     #[msg("The provided authority doesn't match the counter account's authority")]
     InvalidAuthority,
 }
+
