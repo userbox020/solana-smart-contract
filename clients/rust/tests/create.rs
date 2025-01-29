@@ -45,3 +45,4 @@ async fn create() {
     assert_eq!(counter.authority, context.payer.pubkey());
     assert_eq!(counter.count, 0);
 }
+
