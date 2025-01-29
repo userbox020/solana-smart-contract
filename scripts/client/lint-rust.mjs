@@ -26,3 +26,4 @@ if (fix) {
 } else {
   await $`cargo ${toolchain} clippy --manifest-path ${manifestPath} ${lintArgs}`;
 }
+
