@@ -25,3 +25,4 @@ for (const folder of getProgramFolders()) {
     await $`RUST_LOG=error cargo test-sbf --manifest-path ${manifestPath} ${testArgs}`;
   }
 }
+
