@@ -123,3 +123,4 @@ function getExternalAccounts() {
     deployPath: path.join(binaryDir, `${address}.json`),
   }));
 }
+
