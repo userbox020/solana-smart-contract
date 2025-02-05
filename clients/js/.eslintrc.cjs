@@ -15,3 +15,4 @@ module.exports = {
     'typescript-sort-keys/interface': 'off',
   },
 };
+
