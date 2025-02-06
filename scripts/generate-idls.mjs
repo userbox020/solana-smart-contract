@@ -20,3 +20,4 @@ getProgramFolders().forEach((folder) => {
     binaryInstallDir,
   });
 });
+
