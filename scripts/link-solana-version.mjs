@@ -72,3 +72,4 @@ async function installSolana(version) {
     await $`sh -c "$(curl -sSfL https://release.anza.xyz/v${version}/install)"`;
   }
 }
+
