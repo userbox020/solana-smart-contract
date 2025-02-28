@@ -14,3 +14,4 @@ describe("solana-smart-contract", () => {
     console.log("Your transaction signature", tx);
   });
 });
+
