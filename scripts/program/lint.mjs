@@ -25,3 +25,4 @@ for (const folder of getProgramFolders()) {
     await $`cargo ${toolchain} clippy --manifest-path ${manifestPath} ${lintArgs}`;
   }
 }
+
