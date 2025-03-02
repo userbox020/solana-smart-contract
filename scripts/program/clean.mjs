@@ -9,3 +9,4 @@ await $`rm -rf ${externalProgramOutput}`;
 // Remove the target directory.
 await $`rm -rf target`;
 
+
