@@ -20,3 +20,4 @@ for (const folder of getProgramFolders()) {
   await $`cargo-build-sbf --manifest-path ${manifestPath} ${buildArgs}`;
 }
 
+
