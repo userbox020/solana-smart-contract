@@ -27,3 +27,4 @@ if (fix) {
   await $`cargo ${toolchain} clippy --manifest-path ${manifestPath} ${lintArgs}`;
 }
 
+
