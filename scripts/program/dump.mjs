@@ -103,3 +103,4 @@ async function copyFromChain(address, extension, prefix = '') {
       await $`exit 1`;
   }
 }
+
