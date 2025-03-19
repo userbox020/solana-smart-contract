@@ -6,3 +6,4 @@ import { cliArguments, workingDirectory } from '../utils.mjs';
 cd(path.join(workingDirectory, 'clients', 'js'));
 await $`pnpm install`;
 await $`pnpm format ${cliArguments()}`;
+
