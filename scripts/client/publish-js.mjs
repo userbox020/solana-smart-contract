@@ -34,3 +34,4 @@ await $`git commit -am "Publish JS client v${newVersion}"`;
 // Tag the new version.
 await $`git tag -a js@v${newVersion} -m "JS client v${newVersion}"`;
 
+
