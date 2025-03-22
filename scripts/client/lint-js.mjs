@@ -8,3 +8,4 @@ await $`pnpm install`;
 await $`pnpm lint ${cliArguments()}`;
 
 
+
