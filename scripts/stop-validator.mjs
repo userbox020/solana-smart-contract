@@ -12,3 +12,4 @@ if (isValidatorRunning) {
   echo(chalk.yellow('Local validator is not running.'));
 }
 
+
