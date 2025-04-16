@@ -22,3 +22,4 @@ if (!installedVersion) {
     `The expected Solana version ${expectedVersion} is installed.`
   );
 }
+
