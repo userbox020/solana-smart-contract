@@ -43,3 +43,4 @@ await $`git tag -a rust@v${newVersion} -m "Rust client v${newVersion}"`;
 
 
 
+
